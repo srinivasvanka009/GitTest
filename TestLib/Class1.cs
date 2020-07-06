@@ -8,5 +8,9 @@ namespace TestLib
         {
 
         }
+        public void nothing1()
+        {
+
+        }
     }
 }
