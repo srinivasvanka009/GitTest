@@ -15,7 +15,15 @@ namespace SampleGitTest.NewDirectory
             class1.nothing1();
         }
 
+
         void nothingWeb11()
+        {
+            Class1 class1 = new Class1();
+            class1.nothing1();
+        }
+
+        void nothingWeb2()
+
         {
             Class1 class1 = new Class1();
             class1.nothing1();
